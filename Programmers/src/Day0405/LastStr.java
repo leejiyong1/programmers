@@ -1,4 +1,4 @@
-package level0;
+package Day0405;
 
 public class LastStr {
 	
