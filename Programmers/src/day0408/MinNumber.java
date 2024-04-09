@@ -1,4 +1,4 @@
-package dat0408;
+package day0408;
 
 public class MinNumber {
 	public static void main(String[] args) {
