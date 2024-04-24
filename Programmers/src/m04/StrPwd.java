@@ -1,4 +1,4 @@
-package day0417;
+package m04;
 
 public class StrPwd {
 	
